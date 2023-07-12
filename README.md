@@ -4,9 +4,6 @@
 
 In this unit you have will have a backend Node/Express server interact with a database to provide data to a pre-built frontend (react application).
 
-**Note:** For this unit, you will be working in two different branches to implement SQL and NoSQL versions of the challenge. When you fork this repo, please make sure to uncheck the "Copy the `main` branch only" setting so that your forked copy will also contain the `mongoose` branch.
-
-
 ## Learning goals
 
 * Understand the role of databases and how we can set up our backend to retrieve and store data from and to databases.
